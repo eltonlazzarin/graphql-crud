@@ -14,8 +14,6 @@
   
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/graphql-crud">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/graphql-crud">
-
 ### :rocket: Backend Technologies
 
 - [Node.js](https://nodejs.org/)
