@@ -6,8 +6,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "graphql-yoga": "^1.18.3",
-    "mongoose": "^5.8.1",
-    "mongoose-paginate": "^5.0.3"
+    "mongoose": "^5.8.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
