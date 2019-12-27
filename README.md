@@ -1,7 +1,3 @@
-# graphql-crud
-
-Simple GraphQL project showing how to execute CRUD operation
-
 <h1 align="center">
     GraphQL CRUD
 </h1>
@@ -25,7 +21,7 @@ Simple GraphQL project showing how to execute CRUD operation
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [Mongoose](https://mongoosejs.com/)
-- [graphql-yoga"](https://github.com/prisma-labs/graphql-yoga)
+- [graphql-yoga](https://github.com/prisma-labs/graphql-yoga)
 - [DotEnv](https://www.npmjs.com/package/dotenv)
 - [VS Code](https://code.visualstudio.com/) with [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
