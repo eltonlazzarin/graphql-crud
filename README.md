@@ -35,10 +35,13 @@ $ cd graphql-crud
 # Install dependencies
 $ yarn
 
+# Create .env file with your MongoDB user and password
+
 # Run the app
 $ yarn dev
 
-# Create .env file with your MongoDB user and password
+# Open your browser and search for
+http://localhost:4000/
 
 ```
 
